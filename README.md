@@ -10,7 +10,6 @@
 - Performance panel
 - Memory panel
 - Application panel
-- Security panel
 
 ## Необходимые знания
 
