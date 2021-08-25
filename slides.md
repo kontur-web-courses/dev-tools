@@ -14,6 +14,8 @@ https://kontur-web-courses.github.io/dev-tools/
 
 https://developer.chrome.com/docs/devtools/
 
+> pro tip: `Control/Command + Shift + P`
+
 ---
 
 # Обзор
@@ -57,4 +59,67 @@ https://developer.chrome.com/docs/devtools/dom/
 
 ---
 
+# Console
 
+https://developer.chrome.com/docs/devtools/console/
+
+---
+
+# Network
+
+https://developer.chrome.com/docs/devtools/network/
+
+---
+
+# Задача
+
+- Зайди на главную [Яндекса](https://yandex.ru)
+- Узнай какие начертания шрифта загружаются на странице и заблокируй их
+- Заблокируй все запросы на домен метрики
+- Заблокируй все запросы в Дзен и видео-стримы
+- Узнай какие JavaScript файлы загружаются для работы видеоплеера и заблокируй их
+- Страница работает из без JQuery, заблокируй его
+- Да и без React тоже можно поискать, заблокируй загрузку его рантайма и загрузку основного бандла :)
+- Сравни количество загружаемых ресурсов с и без блокировки
+
+---
+
+# Storage
+
+https://developer.chrome.com/docs/devtools/storage/
+
+---
+
+# Device Mode
+
+- https://developer.chrome.com/docs/devtools/device-mode/
+- https://developer.chrome.com/docs/devtools/remote-debugging/
+
+---
+
+# JavaScript
+
+https://developer.chrome.com/docs/devtools/javascript/
+
+---
+
+# Performance
+
+- https://developer.chrome.com/docs/devtools/evaluate-performance/
+- https://developers.google.com/web/tools/lighthouse
+
+---
+
+# Accessibility
+
+https://developer.chrome.com/docs/devtools/accessibility/reference/
+
+---
+
+# Memory
+
+https://developer.chrome.com/docs/devtools/memory-problems/
+
+---
+
+https://developer.chrome.com/docs/devtools/
